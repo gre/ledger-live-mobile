@@ -253,6 +253,10 @@
       "title": "Transaction refused on device",
       "description": "Please retry or contact Ledger Support in case of doubt."
     },
+    "UserRefusedDeviceNameChange": {
+      "title": "Rename canceled on device",
+      "description": "Try again and allow renaming on your device"
+    },
     "WebsocketConnectionError": {
       "title": "Sorry, connection failed",
       "description": "Please try again with a better network connection (websocket error)"
