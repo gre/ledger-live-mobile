@@ -128,6 +128,7 @@
     "react-native-udp": "^2.6.0",
     "react-native-vector-icons": "^6.4.2",
     "react-native-version-number": "^0.3.6",
+    "react-native-webview": "^8.1.2",
     "react-navigation": "^4.0.10",
     "react-navigation-stack": "^1.10.3",
     "react-navigation-tabs": "2.6.0",
